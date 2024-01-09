@@ -1,3 +1,3 @@
 # dog_listing_app
 
-An app to list dogs' photos and info
+An app lists photos and info of dogs.
